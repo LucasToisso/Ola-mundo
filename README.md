@@ -1,4 +1,4 @@
 # Olá, mundo!!
  Primeiro repositório do curso de Git e GitHub
 
-Repositório criado durante uma aula gratuita!
+Repositório criado durante uma aula online!
